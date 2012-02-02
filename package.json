@@ -1,0 +1,16 @@
+{
+  "author": "Charles Davison <charlie@powmedia.co.uk>",
+  "name": "pow-mongoose-plugins",
+  "description": "Plugins for Mongoose (NodeJS MongoDB ORM)",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/powmedia/pow-mongoose-plugins.git"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
